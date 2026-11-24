@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Mert-Oezdemir/Mert-Oezdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mert Özdemir.
 
-Here are some ideas to get you started:
+### 🎓 Verified Claude Academy course-completion badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are **course-completion badges** issued by Claude Academy (Anthropic), not professional certification exams. Each link opens the original badge record.
+
+| Badge | Issued | Verification |
+| --- | --- | --- |
+| Claude Platform 101 | 2026-11-23 | [View badge](https://academy.claude.com/badges/1aa6ebc7-fdee-4aca-b975-924fae0d6d31) |
+| Introduction to Claude Tag | 2026-11-23 | [View badge](https://academy.claude.com/badges/a43c5d1b-46f7-42ac-94c3-812b6ea1f40a) |
+| Introduction to Claude Cowork | 2026-11-23 | [View badge](https://academy.claude.com/badges/c92c1c8b-7623-4544-a844-d5d230cd17b7) |
+| AI Fluency: Framework and Foundations | 2026-11-22 | [View badge](https://academy.claude.com/badges/29d8ea00-0d64-4e01-b280-445c1f4ad6a4) |
+| Introduction to Evals | 2026-11-20 | [View badge](https://academy.claude.com/badges/825f4a78-f260-4210-93fe-61af1a819fd0) |
+| Claude Code 101 | 2026-11-20 | [View badge](https://academy.claude.com/badges/a96361d7-2071-42de-acc6-b7012f17e6c6) |
+| Claude 101 | 2026-11-20 | [View badge](https://academy.claude.com/badges/9bcb1081-c607-43f9-8cf5-c009d4f354de) |
+
+Further badges will be added **after issuance is verified**.
+
+[LinkedIn certifications](https://www.linkedin.com/in/mert-%C3%B6zdemir-2849943b6/details/certifications/)
