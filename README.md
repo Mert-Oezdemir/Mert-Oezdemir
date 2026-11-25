@@ -20,4 +20,12 @@ These are **course-completion badges** issued by Claude Academy (Anthropic), not
 
 Further badges will be added **after issuance is verified**.
 
+### OpenAI Academy — verified course-completion certificates
+
+These records document completion of the original courses, not the newer assessment-based Accredible badges or a professional certification.
+
+| Course | Completed | Verification |
+| --- | --- | --- |
+| Agents and Workflows | 2026-08-18 | [View course certificate](https://academy.openai.com/public/certificate/2ttakeb6wq) |
+
 [LinkedIn certifications](https://www.linkedin.com/in/mert-%C3%B6zdemir-2849943b6/details/certifications/)
