@@ -26,6 +26,8 @@ These records document completion of the original courses, not the newer assessm
 
 | Course | Completed | Verification |
 | --- | --- | --- |
+| AI Foundations | 2026-08-17 | [View course certificate](https://academy.openai.com/public/certificate/iwdbn4j88w) |
+| Applied AI Foundations | 2026-08-17 | [View course certificate](https://academy.openai.com/public/certificate/stz96p4ja9) |
 | Agents and Workflows | 2026-08-18 | [View course certificate](https://academy.openai.com/public/certificate/2ttakeb6wq) |
 
 [LinkedIn certifications](https://www.linkedin.com/in/mert-%C3%B6zdemir-2849943b6/details/certifications/)
