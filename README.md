@@ -16,6 +16,7 @@ These are **course-completion badges** issued by Claude Academy (Anthropic), not
 | Claude Code 101 | 2026-11-20 | [View badge](https://academy.claude.com/badges/a96361d7-2071-42de-acc6-b7012f17e6c6) |
 | Claude 101 | 2026-11-20 | [View badge](https://academy.claude.com/badges/9bcb1081-c607-43f9-8cf5-c009d4f354de) |
 | Claude Code in Action | 2026-11-24 | [View badge](https://academy.claude.com/badges/ef721c98-eeec-45d5-9373-8bf3474c7ab7) |
+| Building Effective Human-Agent Teams (Beta) | 2026-11-23 | [Verify badge](https://academy.claude.com/verify/adc2b59eee1ef853f41681ebae8688d2) |
 
 Further badges will be added **after issuance is verified**.
 
